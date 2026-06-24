@@ -31,7 +31,10 @@ A real-time chat application inspired by WhatsApp Web, built using Firebase and 
 
 ## Screenshots
 
-Add screenshots here.
+<img width="557" height="741" alt="image" src="https://github.com/user-attachments/assets/5e10e7cf-b8a3-4c83-bab4-581ba34d3cc6" />
+<img width="4160" height="3120" alt="1000161915" src="https://github.com/user-attachments/assets/8dfde97a-da76-4d00-b2ae-7a7d9dd57e8b" />
+
+
 
 ## Installation
 
